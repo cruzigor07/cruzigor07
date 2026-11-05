@@ -21,4 +21,4 @@ Estudante de SI na Impacta, buscando estágio em desenvolvimento.
 - **Classroom:** organizador de atividades, em andamento
 
 ## Contato
-[LinkedIn]((https://www.linkedin.com/in/igor-cruz11))
+[LinkedIn](https://www.linkedin.com/in/igor-cruz11)
